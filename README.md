@@ -1,4 +1,4 @@
 # lab_03_assignment
 This is an lab assignment of Software Engineering
-## This is Yash Mehta
+## Welcome user, Yash here
 ## E22CSEU1026
